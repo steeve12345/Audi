@@ -1,0 +1,140 @@
+.backround{
+  background-color: rgb(10, 232, 248);
+  height: 100vh;
+  width:  100vw;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+} 
+.ak{
+  width: 5%;
+  border: 5px solid black;
+  padding: 80px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  background-color: (rgb(255, 255, 255));
+  background-image: linear-gradient(gray);
+}
+.logo{
+  width: 100px;
+}
+.karthi{
+  display: flex;
+   height: 100px;
+  width: 100px;
+  justify-content: center;
+}
+.navbar {
+      display: flex;
+      justify-content: space-between;
+      background-color: #05baf1;
+      background-image:url(aaaaa.jpg)  ;
+      padding: 50px;
+      color: rgb(227, 243, 9);
+    }
+.search-bar{
+  border-radius: 15px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border: 3px solid rgb(7, 7, 7);
+  width: 40%;
+}
+.nav-links{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.k{
+  margin-right: 20px;
+  color: rgb(9, 247, 215);
+}
+
+.a{
+  margin-right: 20px;
+  color:rgb(9, 247, 215);
+}
+
+.r{
+  margin-right: 20px;
+  color: rgb(9, 247, 215);
+};
+
+
+.image{
+  height: 120px;
+  width: 100px;
+  padding: 50px;
+  display:flex ;
+  justify-content: center;
+  align-items: center;
+  }
+  .card{
+      display: flex;
+      align-items: center;
+     flex-direction: column;
+     justify-content: space-evenly;
+      box-shadow:  5px;
+      width: 280px;
+      object-fit: cover;
+      background-color: rgba(248, 250, 248, 0.966);
+      border-radius: 40px;
+  
+  }
+  #cards{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+      margin-top: 50px;
+  }
+  .color1{
+  width: 25px;
+  height: 25px;
+  border: 20ox;
+  border-radius: 20px;
+  background-color: rgb(108, 0, 180);
+  margin: 6px;
+  }
+  
+  .color2{
+      width: 25px;
+      height: 25px;
+      border: 20ox;
+      border-radius: 20px;
+      background-color: rgb(0, 255, 213);
+      margin: 6px;
+      }
+  
+  
+  .color3{
+          width: 25px;
+          height: 25px;
+          border: 20ox;
+          border-radius: 20px;
+          background-color: rgb(15, 20, 5);
+          margin: 6px;
+          }
+  
+  #colors{
+      display: flex;
+      flex-direction: row;
+  }
+  
+  
+  .card:hover{
+      background-color: rgb(190, 93, 93);
+      transition: 0.0001s ease-in;
+      transform: scale(1.1);
+  }
+  body{
+    background-image:url(aaaaa.jpg);
+  }
+  
+    
+   
