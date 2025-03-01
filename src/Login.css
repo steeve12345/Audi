@@ -1,5 +1,5 @@
 .backround{
-  background-color: rgb(10, 232, 248);
+  background-color: rgb(235, 19, 152);
   height: 100vh;
   width:  100vw;
   display: flex;
@@ -8,14 +8,14 @@
 } 
 .ak{
   width: 5%;
-  border: 5px solid black;
+  border: 5px solid rgb(58, 228, 16);
   padding: 80px;
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
   border-radius: 10px;
-  background-color: (rgb(255, 255, 255));
+  background-color: (rgb(17, 8, 8));
   background-image: linear-gradient(gray);
 }
 .logo{
@@ -30,10 +30,10 @@
 .navbar {
       display: flex;
       justify-content: space-between;
-      background-color: #05baf1;
+      background-color: #1ff34d;
       background-image:url(aaaaa.jpg)  ;
       padding: 50px;
-      color: rgb(227, 243, 9);
+      color: rgb(52, 9, 243);
     }
 .search-bar{
   border-radius: 15px;
